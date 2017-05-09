@@ -1,0 +1,16 @@
+---
+title: Šachový trapas
+path: /sachovy-trapas/
+layout: post
+date: 2008-07-12
+---
+
+I takový šachový velikán, hráč který je označován jako nejlepší šachista všech dob, samotný velmistr Garry Kasparov dokáže udělat školáckou chybu. O to horší, že se stala na prestižním turnaji s úhlavním soupeřem Anandem. Je to pro něj asi stejná chyba, jako kdyby ředitel Ústavu pro jazyk český napsal ve slově slyšet měkké i. Jak vypadala Kasparovova reakce po tahu? :-) 
+
+httpv://www.youtube.com/watch?v=kZqcT66Fkzw
+
+Osudným se mu stal tah **33 ... Q x e3** . Zde předkládám celou partii: 
+
+[Event "4.4"] [Site "CS Masters g5, Geneva SUI"] [Date "1996.??.??"] [EventDate "?"] [Round "?"] [Result "1-0"] [White "Viswanathan Anand"] [Black "Garry Kasparov"] [ECO "B90"] [WhiteElo "?"] [BlackElo "?"] [PlyCount "107"]1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bh4 g5 9.Bg3 Bg7 10.Be2 h5 11.Bxg4 Bxg4 12.f3 Bd7 13.Bf2 Nc6 14.Qd2 Ne5 15.O-O g4 16.f4 Nc4 17.Qe2 Rc8 18.b3 Na3 19.Nd5 e6 20.Nb4 Qa5 21.Qe1 h4 22.Be3 h3 23.g3 Nb5 24.Rd1 Nc3 25.Nd3 Qc7 26.Rc1 Nxe4 27.f5 e5 28.f6 Nxf6 29.Nf5 Bxf5 30.Rxf5 Qc6 31.Qe2 Qe4 32.Rf2 Nd5 33.Re1 Qxe3 34.Qxg4 O-O 35.Rxe3 Nxe3 36.Qxh3 Nxc2 37.Qd7 Nd4 38.Qxb7 a5 39.Kg2 Rc3 40.Nb2 Nc2 41.Nc4 d5 42.Nd6 Ne3+ 43.Kh3 f5 44.Qd7 f4+ 45.Qe6+ Kh7 46.Nf7 Rxf7 47.Qxf7 Rc6 48.gxf4 Rf6 49.Qc7 e4 50.f5 d4 51.Qe7 Rh6+ 52.Kg3 Nd1 53.Rf4 e3 54.Rg4 1-0 
+
+Chudák Garry, ani to prezidentsví mu nevyšlo...

@@ -1,0 +1,8 @@
+---
+title: Mé šachové ego (5)
+path: /me-sachove-ego-5/
+layout: post
+date: 2008-10-22
+---
+
+Po dlouhém uvažování jsem nakonec dospěl k závěru, že svůj blog nechci zcela transformovat na databázi šachových partií, a proto budu uveřejňovat pouze partie zajímavé. Tudíž to budou vesměs partie vítězné, občas prohrané a výjimečně remízy. Nebylo by asi optimální hltit hlavní stránku dvěmi partiemi každý týden. Chci se také soustředit na jiná témata a okruhy než jsou šachy. **Nicméně tato partie je vyjímečná hned třemi věcmi.** 1) Zatím největší šachový "zářez" (ELO 1960) 2) Na to jak je dlouhá, tak je vcelku zajímavá 3) Fritz mi v jednom tahu přidal vykřičník (tedy označení pro velmi silný tah) :-)  [Event "Krajska soutez"] [Site "doma"] [Date "2008.10.12"] [Round "1"] [White "Vojtěch Mikšů"] [Black "Brodina Karel"] [Result "1-0"] [ECO "A18"] [WhiteElo "1618"] [BlackElo "1960"] [Annotator ",tajo"] {158MB, Fritz11.ctg, DOMA-4VYEEN6V7B} 1. c4 Nf6 2. Nc3 e6 3. e4 e5 4. Nf3 d6 5. Be2 Be7 6. O-O O-O 7. d4 Nbd7 8. Be3 Ng4 9. Qc1 Nxe3 10. Qxe3 c6 11. Rfd1 Qc7 12\. d5 c5 13. Nb5 Qd8 14. a4 a5 15. b3 Re8 16. Bd3 Nf8 17. Ra2 g5 18. h3 Ng6 19\. Be2 Nf4 20. Nxe5 Bf6 21. Nd3 Nxe2+ 22. Rxe2 Kh8 23. Qg3 Be5 24. Nxe5 Rxe5 25\. f4 gxf4 26. Qxf4 Qe7 27. Rf1 f5 28. Nxd6 Bd7 29. Nb5 Bxb5 30. axb5 Re8 31. Ref2 Rxe4 32. Qxf5 Re1 33. Qf6+ Kg8 34. Qxe7 R8xe7 35. d6 Rxf1+ 36. Kxf1 Rd7 37\. Rd2 Kf7 38. Kf2 Kf6 39. Kf3 b6 40. Kf4 h6 41. g4 Ke6 42. Re2+ Kf6 43. Rd2 Ke6 44. h4 Rf7+ 45. Kg3 Rd7 46. Rd5 Kf6 47. g5+ Kg6 48. gxh6 Kxh6 49. Kf4 Kg6 50\. Ke5 Kf7 51. h5 Ke8 52. Ke6 Rg7 53. d7+ Kd8 54. Kf6 Rg3 55. h6 Rxb3 56. Rd6 1-0
