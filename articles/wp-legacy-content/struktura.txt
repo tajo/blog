@@ -1,0 +1,34 @@
+Snazim se program rozsekat do nejake souborove struktury (zel jsem to tak 
+nedelal od zacatku) a mam s tim trochu problem. Zacal jsem postupne jednotlive
+tridy oddelovat do vlastnich souboru. Struktura vypada takto: 
+-------------------------------------
+main.cpp
+	#include "pesak.h"
+--------------------------------------
+figurka.h
+	class Figurka {...}
+--------------------------------------
+figurka.cpp
+	#include "figurka.h"
+	implementace metod...
+--------------------------------------
+pesak.h // potomek figurky
+	#include "figurka.h"
+	class Pesak {...}
+--------------------------------------
+pesak.cpp
+	include "pesak.h"
+	implementace metod...
+--------------------------------------
+
+Zbytek figurek mam stale inline primo v mainu, podsad vse funguje.
+
+Pak jsem ale extrahoval dalsi figurku - Vez, uplne stejnym zpusobem jako pesaka
+a do mainu tedy pridal
+	#include "vez.h"
+
+a najednou milion chyb :/
+WTF?
+
+
+
