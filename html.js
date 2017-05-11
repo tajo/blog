@@ -31,7 +31,7 @@ module.exports = React.createClass({
         </head>
         <body>
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
-          <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
+          {process.env.NODE_ENV === 'development' && <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />}
         </body>
       </html>
     );

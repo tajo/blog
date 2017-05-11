@@ -11,3 +11,4 @@ siteVkUrl = "#"
 googleAnalyticsId = "UA-31410016-1"
 
 linkPrefix = ""
+noProductionJavascript = true
