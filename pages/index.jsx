@@ -17,7 +17,7 @@ class SiteIndex extends React.Component {
       if (access(page, 'file.ext') === 'md' && access(page, 'data.layout') === 'post') {
         const title = access(page, 'data.title') || page.path;
         const description = access(page, 'data.description');
-        const datePublished = access(page, 'data.date');
+        const datePublished = access(page, 'data.date').split('T')[0];
         const category = access(page, 'data.category');
 
         pageLinks.push((

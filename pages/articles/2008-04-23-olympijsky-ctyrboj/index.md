@@ -2,7 +2,7 @@
 title: Olympijský čtyřboj
 path: /olympijsky-ctyrboj/
 layout: post
-date: 2008/04/23 10:08:58
+date: 2008-04-23
 ---
 
 Soustředíte se pouze na sebe. Slyšíte jen zběsilý tlukot srdce a těžké dopady vašich chodidel. Topíte se ve vlastním potu. Největší boj se však odehrává uvnitř. Každičký sval a šlacha ve vašem těle křičí hlasité ne. Mysl je ale pevná, volná a odhodlaná. Právě vbíháte na vyprodaný olympijský stadion. Maratónský běh sklízí obvyklý úspěch v podobě 50 000 živých diváků. Nyní ale přemýšlíte nad něčím úplně jiným . Hledáte své dno, od kterého byste se mohli odrazit. Bolest se už nedá vydržet. Ale víte, že máte na víc. Hranice není pevně vytyčena, tak proč ji ještě trochu neposunout? Pod nohama vám ubíhají poslední metry. Následuje přetnutí cílové pásky, fotka a medaile. 

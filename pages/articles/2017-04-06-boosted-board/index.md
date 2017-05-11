@@ -33,7 +33,7 @@ V loni v létě jsem ho měl v SF půjčený na celý den a  po té co jsem ho 
 **Boosted Board se ovládá pomocí bezdrátového bluetooth ovladače a má 4 různé módy - Beginner, Eco, Expert a Pro**. Ty jsou omezené rychlostí, akcelerací a dojezdem.  Potíž však je, že je pochopitelně omezené i brždění a například z prudkého kopce by mě board v Eco módu úplně nezastavil. V provozu je kratší brzdná dráha taky důležitá. Je tak dobré se co nejrychleji otrkat a začít používat Expert nebo Pro. Což se sice snadno říká ale výkon, který máte pod palcem je doslova smrtící. Pokud byste na board stoupli poprvé a zkusili se rozjet v režimu Pro, tak je skoro jistota že skončíte na zádech. Narozdíl od obyčejného longboardu je potřeba se naučit naklánět proti zrychlování/zpomalování a to nějakou chvíli trvá. Ovladač je v pokročilých módech také daleko citlivější a i při středních rychlostech dokáže board ještě pořádně zrychlit. Zrychlení je opravdu neuvěřitelné a každého hodně překvapí.
 
 <figure class="floatRight">
-  <a href="bb_orig2.jpg">
+  <a href="bb2_orig.jpg">
     <img src="bb2.jpg" style="height: 320px" alt="Boosted Board">
   </a>
 </figure>
@@ -43,7 +43,7 @@ Longboard je také daleko citlivější na nerovnosti oproti kolům a musíte si
 **První dny ježdění bolí.** Musíte se hodně opírat o nohy s pokrčenými koleny a tělo si zvyká. Navíc pocit, že každou chvíli umřete vás trochu zakřečuje. První jízdu do práce jsem musel asi 5x zastavit a spotil jsem se paradoxně víc než na kole. Nicméně po nějakých 2 týdnech si tělo zvykne, uvolníte se a jezdit zvládnete klidně celý den. Postupně vás přestanou bavit pomalejší módy a nakonec se otrkáte tak, že jezdíte už jen na pro, předjíždíte cyklisty a mezi světlama to naložíte i autům. Boosted Board je v první řadě pořád špičkový longboard (prkno, trucky, kola...) a tak se s ním dá dělat i víc než jen jezdit rovně - carvovat. Když se otevře pěkný kus asfaltu tak to přímo vybízí začít dělat obloučky. Ježdění na BB je stejně návykové podobně jako třeba lyžování.
 
 <figure class="floatLeft">
-  <a href="bb_orig3.jpg">
+  <a href="bb3_orig.jpg">
     <img src="bb3.jpg" style="height: 320px" alt="Boosted Board">
   </a>
 </figure>
@@ -51,7 +51,7 @@ Longboard je také daleko citlivější na nerovnosti oproti kolům a musíte si
 **Každý den ho používám na cestu z a do práce, což je dohromady přesně 9km**.  A každý den se na to těším. Jedna cesta mi zabere 15 minut. Je to rychlejší než kolo, uber nebo MHD a navíc ještě parádní dávka zábavy a adrenalinu. O víkendech mám pak čas i na nějaké blbnutí v různých částech města a nemusím brát ohled na výdrž. Nicméně koupil jsem si do práce náhradní nabíječku, takže se nemusím omezovat už ani při cestě do ní. **Kompletně se nabije se za 1h**. Můžete si tak vzít nabíječku do batohu a zastavovat po kavárnách.
 
 <figure class="floatRight">
-  <a href="bb_orig4.jpg">
+  <a href="bb4_orig.jpg">
     <img src="bb4.jpg" style="height: 320px" alt="Boosted Board">
   </a>
 </figure>
