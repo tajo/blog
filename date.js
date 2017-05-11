@@ -31,11 +31,11 @@ const months2 = [
 export const dateWithDay = date => {
   if (!date) return '';
   const parts = date.split('T')[0].split('-');
-  return `${parseInt(parts[2], 10)}. ${months2[parseInt(parts[1], 10)]}, ${parts[0]}`;
+  return `${parseInt(parts[2], 10)}. ${months2[parseInt(parts[1], 10) - 1]}, ${parts[0]}`;
 };
 
 export const dateJustMonth = date => {
   if (!date) return '';
   const parts = date.split('T')[0].split('-');
-  return `${months[parseInt(parts[1], 10)]} ${parts[0]}`;
+  return `${months[parseInt(parts[1], 10) - 1]} ${parts[0]}`;
 };
