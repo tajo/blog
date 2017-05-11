@@ -3,6 +3,8 @@ title: Počasí a písek
 path: /pocasi-a-pisek/
 layout: post
 date: 2015-03-18
+readNext: /ropne-penize/
+description: Abu Dhabi patří k nejteplejším místům na světě. Jen těžko byste na planetě hledali tak velkou aglomeraci v tak nehostinném prostředí. Tomu se pochopitelně musel podřídit i zdejší život a architektura.
 ---
 
 Abu Dhabi patří k **nejteplejším místům na světě**. Jen těžko byste na planetě hledali tak velkou aglomeraci v tak nehostinném prostředí. Tomu se pochopitelně musel podřídit i zdejší život a architektura.
@@ -15,7 +17,9 @@ Z toho plyne jedna věc. V létě se tu prakticky nedá vydržet venku. Zapomeň
 
 Asi vás nepřekvapí, že klimatizace je úplně všude. Včetně zastávek autobusů, venkovních bazénů či dokonce některých pláží! Člověk i trochu pak chápe tu megalománii v oblasti budování obřích nákupních center - touha po velkých vychlazených prostorech je jasná. Teplotní přechody a šoky jsou šílené. První 2 týdny (začátek září) jsem měl neustále rýmu, bolela mě často hlava a bylo mi celkově nanic. Klimatizace je navíc také poměrně hlučná. Masdar používá nejmodernější izolace, materiály fasád, architekturu, technologie ale pokud si sednete ven, tak i tak nelze přeslechnout hlasité šumění obřích klimatizací, které na střechách běží téměř non-stop. Na druhou stranu nás tu drží při životě a nechci si ani představovat, co by se stalo, kdyby měly během léta výpadek.
 
-![f0606e5261ea89bfc2163b5aec9e5212](../wp-legacy-content/f0606e5261ea89bfc2163b5aec9e5212.jpg)
+<figure class="floatLeft">
+  <img src="notsure.jpg" />
+</figure>
 
 Čekaní na teplou vodu, když se sprchujete? To tady neexistuje. Naopak, zapomeňte na otužování. Nejstudenější voda je minimálně vlažná. Pokud si natočíte vodu z kohoutku, tak je potřeba jí nejdříve na chvíli šoupnout do ledničky, aby byla poživatelná. Tedy, prvních pár vteřin teče opravdu studenější. To je ta, co byla ve stěnách a je tak klimatizovaná. Pak ale odteče a rozmezí se posune na teplá až vařicí.
 
