@@ -1,11 +1,11 @@
 import React from 'react';
-import moment from 'moment';
 import { Link } from 'react-router';
 import { prefixLink } from 'gatsby-helpers';
 import { config } from 'config';
 import ReadNext from '../ReadNext';
 import './style.css';
 import '../../static/css/highlight.css';
+import { dateWithDay } from '../../date';
 
 class SitePost extends React.Component {
   render() {
@@ -25,7 +25,7 @@ class SitePost extends React.Component {
             <h1>{post.title}</h1>
             <div dangerouslySetInnerHTML={{ __html: post.body }} />
             <div className="date-published">
-              <em>Zveřejněno {moment(post.date).lang('cs').format('D. MMMM, YYYY')}</em>
+              <em>Zveřejněno {dateWithDay(post.date)}</em>
             </div>
           </div>
           <div className="footer">

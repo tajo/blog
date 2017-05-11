@@ -1,12 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router';
 import sortBy from 'lodash/sortBy';
-import moment from 'moment';
 import Helmet from 'react-helmet';
 import { prefixLink } from 'gatsby-helpers';
 import access from 'safe-access';
 import { config } from 'config';
 import SiteSidebar from '../components/SiteSidebar';
+import { dateWithDay, dateJustMonth } from '../date';
 
 class SiteIndex extends React.Component {
   render() {
@@ -17,13 +17,13 @@ class SiteIndex extends React.Component {
       if (access(page, 'file.ext') === 'md' && access(page, 'data.layout') === 'post') {
         const title = access(page, 'data.title') || page.path;
         const description = access(page, 'data.description');
-        const datePublished = access(page, 'data.date').split('T')[0];
+        const datePublished = access(page, 'data.date');
         const category = access(page, 'data.category');
 
         pageLinks.push((
           <div className="blog-post" key={title}>
-            <time dateTime={moment(datePublished).lang('cs').format('MMMM D, YYYY')}>
-              {moment(datePublished).lang('cs').format('MMMM YYYY')}
+            <time dateTime={dateWithDay(datePublished)}>
+              {dateJustMonth(datePublished)}
             </time>
             <span style={{ padding: '5px' }} />
             <span className="blog-category">{category}</span>

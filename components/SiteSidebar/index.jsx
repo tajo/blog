@@ -26,8 +26,7 @@ class SiteSidebar extends React.Component {
         ) :
           <h2><Link style={{ textDecoration: 'none', borderBottom: 'none', color: 'inherit' }} to={prefixLink('/')}> {config.siteAuthor}</Link></h2> }
         <p>
-          San Francisco, CA. Front-end engineer v <a href="https://www.cloudflare.com">Cloudflare</a>. Absolvent <a href="http://www.gatech.edu/">Georgia Tech</a> a <a href="http://fit.cvut.cz">ČVUT</a>.
-          {' '}<a href="http://twitter.com/vmiksu">Twitter</a>. <a href="http://miksu.cz">Kontakty</a>.
+          San Francisco, CA. Front-end engineer v Cloudflare. Absolvent Georgia Tech a ČVUT. <a href="http://miksu.cz">Kontakty</a>
         </p>
       </header>
     );
