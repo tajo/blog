@@ -31,6 +31,16 @@ class SitePost extends React.Component {
           <div className="footer">
             <ReadNext post={post} {...this.props} />
             <hr />
+            <div id="disqus_thread" />
+            <div dangerouslySetInnerHTML={{ __html: `<script>
+                  (function() { // DON'T EDIT BELOW THIS LINE
+                  var d = document, s = d.createElement('script');
+                  s.src = 'https://miksu.disqus.com/embed.js';
+                  s.setAttribute('data-timestamp', +new Date());
+                  (d.head || d.body).appendChild(s);
+                  })();
+            </script>` }}
+            />
             <p>
               {config.siteDescr}
               <a href={config.siteTwitterUrl}>
