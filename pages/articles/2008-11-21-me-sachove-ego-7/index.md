@@ -1,8 +1,0 @@
----
-title: Mé šachové ego (7)
-path: /me-sachove-ego-7/
-layout: post
-date: 2008-11-21
----
-
-Tato partie opět posunula nejvyšší zářez na mé pomyslné šachové pažbě. Tentokrát se jedná o partii sehranou v rámci **přeboru oddílu** tempem **1,5h + 30s** na tah. Soupeřem nebyl nikdo jiný než loňský přeborník a **nejlepší hráč Humpolce Robert Pavlíček s ELO 1982**. Navíc jsem partii sehrál s černými (se kterými jsem nevyhrál minimálně půl roku). Hranice je tedy opět posunuta :-) Partie měla klasický vývoj - přechod černého z obrany do útoku po nepřesnosti bílého...  [Event "?"] [Site "doma"] [Date "2008.11.18"] [Round "8"] [White "Pavlíček Robert"] [Black "Mikšů Vojtěch"] [Result "0-1"] [ECO "A45"] [WhiteElo "1982"] [BlackElo "1618"] [Annotator ",tajo"] [PlyCount "88"] [TimeControl "40/7200:20/3600:1800"] {158MB, Fritz11.ctg, DOMA-4VYEEN6V7B} 1. d4 Nf6 2. c3 e6 3. Bg5 Be7 4. f4 Ne4 5\. Bxe7 Qxe7 6. Nf3 d5 7. e3 Nd7 8. Bd3 f5 9. O-O O-O 10. Nbd2 Ndf6 11. Ne5 c5 12\. Rf3 Nxd2 13. Qxd2 c4 14. Be2 Nd7 15. Rh3 Nxe5 16. fxe5 g6 17. Rf1 Bd7 18. Bd1 b5 19. Rg3 a5 20. a3 Rab8 21. Qe1 b4 22. axb4 axb4 23. h4 bxc3 24. bxc3 Rb1 25\. h5 g5 26. h6 Ba4 27. Qd2 Rxd1 28. Rxd1 Bxd1 29. Qxd1 g4 30. Qf1 Ra8 31. e4 Qh4 32. Qf4 Ra1+ 33. Kf2 Ra2+ 34. Kg1 dxe4 35. Rh3 Rxg2+ 36. Kf1 Rf2+ 37. Qxf2 Qxh3+ 38. Kg1 g3 39. Qd2 Qh2+ 40. Qxh2 gxh2+ 41. Kxh2 f4 42. Kh3 e3 43. Kg2 e2 44\. Kf2 f3 0-1  _Další cíl:_ Klepnout ve vážné partii někoho s ELO 2000+ :)
